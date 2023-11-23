@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
@@ -6,6 +7,10 @@ public class Main {
         zoo.x = 1;
         zoo.y = "tygy";
         zoo.print();
+
+    }
+
+    public static void test(List<?> list) {
 
     }
 }

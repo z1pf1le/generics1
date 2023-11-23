@@ -6,3 +6,7 @@ https://javarush.com/quests/lectures/questcollections.level05.lecture03
 дженерики существуют только на этапе компилляции
 
 в рантайме никаких типов не остается
+
+главное преимущество дженериков — типобезопасность
+
+https://www.youtube.com/watch?v=Er_cj823ZTM
